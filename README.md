@@ -4,5 +4,4 @@
 
 ## Prerequisites:
 
-+ IDE
 + Python
