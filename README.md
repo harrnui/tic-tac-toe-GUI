@@ -1,6 +1,6 @@
 # Tic-tac-toe Game
 
-+ A game of tic-tac-toe with an Graphical User Interface made with Tkinter
++ A game of tic-tac-toe with a Graphical User Interface made with Tkinter
 
 ## Prerequisites:
 
